@@ -13,7 +13,7 @@
   <a href="https://github.com/Losif24/stoic/releases/latest">Descargar para Windows</a>
 </h3>
 
-Stoic es una app de escritorio para practicar matemáticas. Los ejercicios se generan al azar, así que no se acaban, y se juega solo o 1 contra 1 con otra persona. Para estudiar desde cero trae lecciones, un laboratorio con 43 exploradores que se manejan arrastrando, 13 libros y un glosario de 138 ejemplos resueltos. Una vez instalada no necesita internet, salvo para jugar contra alguien que no esté en tu red.
+Stoic es una app de escritorio para practicar matemáticas. Los ejercicios se generan al azar, así que no se acaban, y se juega solo o 1 contra 1 con otra persona. Para estudiar desde cero trae lecciones, un laboratorio con 43 exploradores que se manejan arrastrando, un curso de cálculo integral, 13 libros y un glosario de 138 ejemplos resueltos. Una vez instalada no necesita internet, salvo para jugar contra alguien que no esté en tu red y para bajar actualizaciones.
 
 ## Qué hay dentro
 
@@ -23,6 +23,7 @@ Stoic es una app de escritorio para practicar matemáticas. Los ejercicios se ge
 | **1 contra 1** | Creas una sala, pasas el código y la partida va directa entre los dos equipos por WebRTC. |
 | **Lecciones** | 13 rutas con 61 niveles de 2 a 3 minutos. Cada nivel se abre al terminar el anterior. |
 | **Laboratorio** | 43 exploradores con 6 retos cada uno (258 en total), práctica sin fin y 19 temarios con 237 lecciones. |
+| **Cálculo integral** | Un curso dentro del laboratorio: 10 unidades y 48 lecciones, desde la idea de área hasta Simpson y la probabilidad, con 57 gráficas que se mueven. Cada lección se cierra con 5 preguntas, cada unidad con un reto y el curso con un examen final de 16. |
 | **Biblioteca** | 13 libros y 76 capítulos, con buscador y progreso por libro. |
 | **Glosario** | 138 ejemplos resueltos que se muestran paso a paso en una pizarra. |
 
@@ -49,13 +50,15 @@ Stoic es una app de escritorio para practicar matemáticas. Los ejercicios se ge
 
 ## Progreso
 
-La racha cuenta los días seguidos que juegas. Cada acierto da 10 XP, terminar una partida suma 5 y cada reto del laboratorio vale 15. Un nivel son 200 XP. Todo se guarda en tu equipo, sin cuenta ni registro.
+La racha cuenta los días seguidos que juegas. Cada acierto da 10 XP, terminar una partida suma 5 y cada reto del laboratorio vale 15. En el curso de cálculo integral, dominar una lección da 20 y superar una unidad, 40. Un nivel son 200 XP. Todo se guarda en tu equipo, sin cuenta ni registro.
 
 ## Instalación
 
 1. Descarga `StoicSetup-x.y.z.exe` desde [Releases](https://github.com/Losif24/stoic/releases/latest).
 2. Ejecútalo. Se instala para tu usuario y no pide permisos de administrador.
 3. Si Windows muestra «Windows protegió su PC», es porque el instalador no está firmado. Pulsa «Más información» y luego «Ejecutar de todas formas».
+
+Desde la 1.1.0 se actualiza sola: al abrirla mira si hay versión nueva, la descarga y se reinicia cuando no estás en mitad de una partida. Si tienes la 1.0.0, instala la 1.1.0 a mano una vez.
 
 **Requisitos:** Windows 10 u 11 de 64 bits.
 
